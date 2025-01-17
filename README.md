@@ -6,4 +6,4 @@
 | 17.01.2025 | 5 | Cisco course | Finished all modules and exams |
 | x | x | x | x |
 
-Summary of hours input: 2h
+Summary of hours input: 7h
