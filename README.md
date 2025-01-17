@@ -1,4 +1,7 @@
-# Cybersecurity-and-data-privacy
-The Logbook
+## Cybersecurity-and-data-privacy
+#The Logbook
 
-17.01.2025 / 2h - lecture 1, Kick-off lecture
+| Date  | Used hours | Subject(s) |  output |
+| :---:         |     :---:      |     :---:      |     :---:      |
+| 17.01.2025 | 2 | Kick-off lecture | Lecture participation |
+| x | x | x | x |
