@@ -8,4 +8,4 @@
 | x | x | x | x |
 | x | x | x | x |
 
-Summary of hours input: 7h
+Summary of hours input: 9h
