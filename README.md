@@ -6,8 +6,9 @@
 | 17.01.2025 | 5 | Cisco course | Finished all modules and exams |
 | 23.01.2025 | 2 | PortSwigger lecture | Lecture participation |
 | 05.02.2025 | 2 | PortSwigger SQL Injection | Studied and finished 2 labs |
-| 06.02.2025 | 5 | PortSwigger SQL Injection | Studied and finished 2 labs |
+| 06.02.2025 | 5 | PortSwigger SQL Injection | Finished 12 labs |
+| 06.02.2025 | 2 | PortSwigger Authentication | Studied and finished 2 labs |
 | x | x | x | x |
 | x | x | x | x |
 
-Summary of hours input: 16h
+Summary of hours input: 18h
