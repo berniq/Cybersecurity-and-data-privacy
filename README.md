@@ -12,4 +12,4 @@
 | 14.02.2025 | 1 | Lecture recording 06.02 | Watched recording |
 | x | x | x | x |
 
-Summary of hours input: 20h
+Summary of hours input: 21h
