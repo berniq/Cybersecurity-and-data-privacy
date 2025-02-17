@@ -10,6 +10,7 @@
 | 06.02.2025 | 2 | PortSwigger Authentication | Studied and finished 2 labs |
 | 06.02.2025 | 2 | PortSwigger Access Control | Studied and finished 2 labs |
 | 14.02.2025 | 1 | Lecture recording 06.02 | Watched recording |
+| 17.02.2025 | 2 | Lecture recording 14.02 | Watched recording |
 | x | x | x | x |
 
-Summary of hours input: 21h
+Summary of hours input: 23h
