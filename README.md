@@ -14,4 +14,4 @@
 | 20.02.2025 | 5 | Penetration Testing of Booking System | Phase1/P1 - report |
 | x | x | x | x |
 
-Summary of hours input: 23h
+Summary of hours input: 28h
