@@ -12,6 +12,7 @@
 | 14.02.2025 | 1 | Lecture recording 06.02 | Watched recording |
 | 17.02.2025 | 2 | Lecture recording 14.02 | Watched recording |
 | 20.02.2025 | 5 | Penetration Testing of Booking System | Phase1/P1 - report |
+| 03.03.2025 | 2 | Lecture recording 21.02 | Watched recording |
 | x | x | x | x |
 
-Summary of hours input: 28h
+Summary of hours input: 30h
