@@ -15,6 +15,7 @@
 | 03.03.2025 | 2 | Lecture recording 21.02 | Watched recording |
 | 05.03.2025 | 4 | Penetration Testing of Booking System | Phase1/P2 - report |
 | 06.03.2025 | 2 | Project (Phase 2) lecture | Lecture participation |
+| 06.03.2025 | 2 | Project (Phase 2) workshop | Workshop participation |
 | x | x | x | x |
 
-Summary of hours input: 36h
+Summary of hours input: 38h
