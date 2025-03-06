@@ -1,5 +1,7 @@
 # Penetration Testing Report
 
+***Version: Phase 1 of the 'Booking System'***
+
 ## 1. Introduction:
 
 ### Purpose and scope of the report.
@@ -8,7 +10,7 @@ This report is meant to showcase the vulnerabilities found in the user registrat
 
 ### Testing schedule and environment.
 
-Initial test was performed on 20.02.2025. The OS used to perform those tests was Kali Linux running on the virtual machine. The application was deployed locally using dockerization with the IP http:/ 0.0.0.0:8000. The registration element tested was behind the following endpoint: ‘/register’, using automated penetration security scanning mixed with manual testing.
+Initial test was performed on 20.02.2025. The OS used to perform those tests was Kali Linux running on the virtual machine. The application was deployed locally using dockerization with the IP http:/0.0.0.0:8000. The registration element tested was behind the following endpoint: ‘/register’, using automated penetration security scanning mixed with manual testing.
 
 **Updated 03.03.2025**
 
