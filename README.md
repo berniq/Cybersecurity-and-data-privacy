@@ -20,4 +20,4 @@
 | 07.02.2025 | 1 | Working on phase 2 | cracked remaining 5 passwords |
 | x | x | x | x |
 
-Summary of hours input: 41h
+Summary of hours input: 42h
