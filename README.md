@@ -17,6 +17,7 @@
 | 06.03.2025 | 2 | Project (Phase 2) lecture | Lecture participation |
 | 06.03.2025 | 2 | Project (Phase 2) workshop | Workshop participation |
 | 06.02.2025 | 3 | Working on phase 2 | Report created/5 cracked passwords |
+| 07.02.2025 | 1 | Working on phase 2 | cracked remaining 5 passwords |
 | x | x | x | x |
 
 Summary of hours input: 41h
