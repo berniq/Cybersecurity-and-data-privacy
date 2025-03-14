@@ -19,6 +19,7 @@
 | 06.02.2025 | 3 | Working on phase 2 | Report created/5 cracked passwords |
 | 07.02.2025 | 1 | Working on phase 2 | cracked remaining 5 passwords |
 | 10.03.2025 | 1 | Lecture recording | Watched recording |
+| 10.03.2025 | 3 | Working on phase 2, part 2 | Performed hydra atacks |
 | x | x | x | x |
 
-Summary of hours input: 43h
+Summary of hours input: 46h
