@@ -23,6 +23,7 @@
 | 17.03.2025 | 2 | Working on phase 2, part 2 | Tried burp suite attacks and finished report |
 | 24.03.2025 | 2 | Lecture recording | Watched recording |
 | 24.03.2025 | 2 | Browser testing | Finished report about browser testing |
+| 24.03.2025 | 3 | ZAP/wfuzz/http testing | Finished report about those tests |
 | x | x | x | x |
 
-Summary of hours input: 54h
+Summary of hours input: 57h
