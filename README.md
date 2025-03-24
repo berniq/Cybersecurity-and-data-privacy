@@ -22,6 +22,7 @@
 | 10.03.2025 | 5 | Working on phase 2, part 2 | Performed hydra atacks |
 | 17.03.2025 | 2 | Working on phase 2, part 2 | Tried burp suite attacks and finished report |
 | 24.03.2025 | 2 | Lecture recording | Watched recording |
+| 24.03.2025 | 2 | Browser testing | Finished report about browser testing |
 | x | x | x | x |
 
-Summary of hours input: 52h
+Summary of hours input: 54h
