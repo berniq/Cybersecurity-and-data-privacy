@@ -35,10 +35,10 @@
 ⚠️ Attention - this require changes
 
 **Notes:**  
-1. Loged in users with reserver role can access only edition of reservation of their own reservations, which is good in the context of the system expectations.
-2. The best approach to the `/register` and `/login` endpoints while been already loged in, is redirection to the main/profile page. Current approach allows for loged in users to access those endpoints. 
-3. This is critical issue, the guest can acces the resources endpoint and add new resources. This makes the system vulnerable, the `/resources` endpoint should check authorization of the requests.
-4. The edition or reservations should be only possible for own reservations when it comes to the reserver role. But by been able to acces this pannel we can jump around other reservation accesing the ?=idx (where x is the number 1,2....,n representing index of reservation), allowing the reserver to access edition of reservation of other users.
+**1.** Loged in users with reserver role can access only edition of reservation of their own reservations, which is good in the context of the system expectations.
+**2.** The best approach to the `/register` and `/login` endpoints while been already loged in, is redirection to the main/profile page. Current approach allows for loged in users to access those endpoints. 
+**3.** This is critical issue, the guest can acces the resources endpoint and add new resources. This makes the system vulnerable, the `/resources` endpoint should check authorization of the requests.
+**4.** The edition or reservations should be only possible for own reservations when it comes to the reserver role. But by been able to acces this pannel we can jump around other reservation accesing the ?=idx (where x is the number 1,2....,n representing index of reservation), allowing the reserver to access edition of reservation of other users.
 
 ---
 
@@ -70,9 +70,9 @@
 ❌ Access is possible but insecure or problematic
 
 **Notes:**  
-5. Access to the static files (`.js`,`.css`) is typicaly fine to be public, the only concern would be making sure that there is no sensitive data exposed in the JavaScript files.
-6. Access to the api endpoints (`/reservations/id`,`/resources`) should not be openly accessible, the access control to those resources should be enforced to ensure only authorized users can access them.
-7. The sensitive information like user tokens, usernames and roles are not properly secured and are visible for everyone. User tokens can be used to abuse authentication and authorization. Usernames can be used to make brute force atacks. Roles can be used to aim at the administrator accounts for privilege escalation.
+**5**. Access to the static files (`.js`,`.css`) is typicaly fine to be public, the only concern would be making sure that there is no sensitive data exposed in the JavaScript files.
+**6.** Access to the api endpoints (`/reservations/id`,`/resources`) should not be openly accessible, the access control to those resources should be enforced to ensure only authorized users can access them.
+**7.** The sensitive information like user tokens, usernames and roles are not properly secured and are visible for everyone. User tokens can be used to abuse authentication and authorization. Usernames can be used to make brute force atacks. Roles can be used to aim at the administrator accounts for privilege escalation.
 
 **Extra information after Zap testing**
 - Ensure **access control** on API endpoints (especially for authenticated resources).  
@@ -102,7 +102,7 @@ command - `wfuzz -c -w /usr/share/wordlists/dirb/common.txt --hc 404 http://loca
 | 000002347  | <span style="color:green">200</span>      | 32 L  | 137 W | 1967 Ch | "login"         |
 
 **Note**
-8. No new pages found
+**8.** No new pages found
 
 
 #### Api folder scaning
@@ -116,7 +116,7 @@ command - `wfuzz -c -w /usr/share/wordlists/dirb/common.txt --hc 404 http://loca
 | <span style="color:green">200</span> | 0 L   | 1 W   | 619 Ch  | "users"         |
 
 **Note**
-9. The `/api/session` endpoint was found, but access is restricted for guest users. Logged-in users do not see any confidential information from this endpoint.
+**9.** The `/api/session` endpoint was found, but access is restricted for guest users. Logged-in users do not see any confidential information from this endpoint.
 
 #### Reservation folder scaning for extra pages
 command - `wfuzz -c -z range,1-1000 --hc 404 http://localhost:8000/api/reservations/FUZZ`
@@ -130,7 +130,7 @@ command - `wfuzz -c -z range,1-1000 --hc 404 http://localhost:8000/api/reservati
 
 
 **Note**
-10. Thanks to the wfuzz command the id of the reservations were idenfitied, which are `1`, `3`, `36`.
+**10.** Thanks to the wfuzz command the id of the reservations were idenfitied, which are `1`, `3`, `36`.
 
 #### Http test of reservations page found endpoint
 command - `http http://localhost:8000/api/reservations/36`
@@ -157,7 +157,7 @@ x-frame-options: DENY
 ```
 
 **Note**
-11. The API response exposes a reserver_token, which is a security risk as it may allow unauthorized access to reservations. This token should not be included in public responses. Instead, it should be sent only to authenticated users who have the appropriate permissions. Implementing access controls and restricting API responses will help mitigate potential security vulnerabilities.
+**11.** The API response exposes a reserver_token, which is a security risk as it may allow unauthorized access to reservations. This token should not be included in public responses. Instead, it should be sent only to authenticated users who have the appropriate permissions. Implementing access controls and restricting API responses will help mitigate potential security vulnerabilities.
 
 ---
 
