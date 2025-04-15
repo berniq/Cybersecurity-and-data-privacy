@@ -24,15 +24,15 @@
 | 24.03.2025 | 2 | Lecture recording | Watched recording |
 | 24.03.2025 | 2 | Browser testing | Finished report about browser testing |
 | 24.03.2025 | 3 | ZAP/wfuzz/http testing | Finished report about those tests |
-| 04.03.2025 | 2 | Discussion with friends about password security and access protection topics | Increased knowledge and understanding of the password encryption, how to approach authentication and authorization |
-| 07.03.2025 | 2 | Watching few videos and read some stuff about access protection and hacking | Understaing that current system when created properly, leave only space for social enginnering type of hacking |
-| 10.03.2025 | 2 | Lecture recording | Watched recording |
-| 10.03.2025 | 1 | Working on final assignment  | Document created and partly completed |
-| 11.03.2025 | 1 | Working on final assignment  | Document partly completed | 
-| 11.03.2025 | 1 | Watched videos about hackers and Ethical Hacking from Fireship | Increased knowledge of cybersecurity |
-| 11.03.2025 | 5 | Working on Phase 4 | Initialized phase 4 and read about GDPR | 
-| 12.03.2025 | 5 | Working on Phase 4 | Finished phase 4 |
-| 13.03.2025 | 2 | Working on final assignment | Finished final assignment |
-| 13.03.2025 | 2 | Installation and exploration of WebGoat software | WebGoat installed and software explored with aim on web vulnerabilities |
+| 04.04.2025 | 2 | Discussion with friends about password security and access protection topics | Increased knowledge and understanding of the password encryption, how to approach authentication and authorization |
+| 07.04.2025 | 2 | Watching few videos and read some stuff about access protection and hacking | Understaing that current system when created properly, leave only space for social enginnering type of hacking |
+| 10.04.2025 | 2 | Lecture recording | Watched recording |
+| 10.04.2025 | 1 | Working on final assignment  | Document created and partly completed |
+| 11.04.2025 | 1 | Working on final assignment  | Document partly completed | 
+| 11.04.2025 | 1 | Watched videos about hackers and Ethical Hacking from Fireship | Increased knowledge of cybersecurity |
+| 11.04.2025 | 5 | Working on Phase 4 | Initialized phase 4 and read about GDPR | 
+| 12.04.2025 | 5 | Working on Phase 4 | Finished phase 4 |
+| 13.04.2025 | 2 | Working on final assignment | Finished final assignment |
+| 13.04.2025 | 2 | Installation and exploration of WebGoat software | WebGoat installed and software explored with aim on web vulnerabilities |
 
 Summary of hours input: 80h
